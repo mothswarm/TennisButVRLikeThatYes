@@ -348,7 +348,7 @@ MonoBehaviour:
   animationStateName: Spectactor1
 --- !u!95 &7933206890154447907
 Animator:
-  serializedVersion: 5
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -365,7 +365,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!54 &-2744949559422821000
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -394,7 +394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 196fd7f904d4ae743862a529bc86779f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: {x: 0, y: 0, z: 1.8}
+  _speed: {x: 0, y: 0, z: 2}
 --- !u!114 &483504572346094608
 MonoBehaviour:
   m_ObjectHideFlags: 0
